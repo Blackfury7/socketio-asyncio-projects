@@ -4,7 +4,6 @@
 </h1>
 
 <br>
-<br>
 
 # Socket.IO
 
