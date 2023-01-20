@@ -2,7 +2,10 @@
 <h1 align="center">
    Socket.IO PROJECTS 
 </h1>
+
 <br>
+<br>
+
 # Socket.IO
 
 Socket.IO is a library that enables **low-latency**, **bidirectional** and **event-based** communication between a client and a server.
@@ -13,6 +16,7 @@ Project Homepage: [Socket.IO Homepage](https://socket.io/)
 
 Documentation: [Socket.IO Documentation](https://socket.io/docs/v4/)
 
+<br>
 
 ## python-socketio
 
@@ -23,8 +27,10 @@ Github Project: [python-socketio](https://github.com/miguelgrinberg/python-socke
 Documentation: [python-socketio Documentation](https://python-socketio.readthedocs.io/en/latest/)
  
  <br>
+ <br>
+ 
 <h1 align="center">
    This Project is containing Socket.IO Projects
 </h1>
 
-1. Socket.IO and FastAPI project [_link_](https://github.com/Blackfury7/socketio-asynio-projects/tree/main/socket%20io%20-%20FastAPI/server)
+## 1. Socket.IO and FastAPI project [_link_](https://github.com/Blackfury7/socketio-asynio-projects/tree/main/socket%20io%20-%20FastAPI/server)
