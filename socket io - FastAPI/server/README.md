@@ -15,6 +15,8 @@ Documentation: [Socket.IO Documentation](https://socket.io/docs/v4/)
 
 ## python-socketio
 
+This projects implements Socket.IO clients and servers that can run standalone or integrated with a variety of Python web frameworks.
+
 Github Project: [python-socketio](https://github.com/miguelgrinberg/python-socketio)
 
 Documentation: [python-socketio Documentation](https://python-socketio.readthedocs.io/en/latest/)
